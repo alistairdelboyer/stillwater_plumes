@@ -1,0 +1,37 @@
+###### references for the stillwater plume paper ########
+ Kaye & Linden (KL04) Coalescing axisymmetric turbulent plumes. Journal of Fluid Mechanics, 502:41–63, 2004.
+
+ Moses et al (coalescence of laminar plumes) The dynamics and interaction of laminar thermal plumes. EPL (Europhysics Letters),14(1):55, 1991
+ An experimental study of laminar plumes. Journal of Fluid Mechanics, 251:581–601, 1993.
+
+C Cenedese and PF Linden. Entrainment in two coalescing axisymmetric turbulent plumes. Journal of Fluid Mechanics, 752, 2014.
+
+GG Rooney. Merging of a row of plumes or jets with an application to plume rise in a channel. Journal of Fluid Mechanics, 771, 2015.
+
+GR Hunt and TS Van den Bremer. Classical plume theory: 1937–2010 and beyond. IMA Journal of Applied Mathematics, 76(3):424–448, 2011.
+
+BR Morton, GI Taylor, and JS Turner. (MTT) Turbulent gravitational convection from maintained and instantaneous sources. Proceedings
+of the Royal Society of London. Series A. Mathematical and Physical Sciences, 234(1196):1–23, 1956.
+
+GR Hunt and NG Kaye. Virtual origin correction for lazy turbulent plumes. Journal of Fluid Mechanics, 435:377–396, 2001.
+
+MM Scase, CP Caulfield, SB Dalziel, and JCR Hunt. Time-dependent plumes and jets with decreasing source strengths. Journal of Fluid
+Mechanics, 563:443–461, 2006.
+
+MM Scase, CP Caulfield, and SB Dalziel. Boussinesq plumes and jets with decreasing source strengths in stratified environments. Journal of
+Fluid Mechanics, 563:463–472, 2006.
+
+H Yamamoto, C Cenedese, and CP Caulfield. Laboratory experiments on two coalescing axisymmetric turbulent plumes in a rotating fluid.
+Physics of Fluids, 23(5):056601, 2011.
+
+H Rouse, CS Yih, and HW Humphreys. Gravitational convection from a boundary source. Tellus, 4(3):201–210, 1952.
+
+SJ Gaskin, DA Papps, and IR Wood. The axisymmetric equations for a buoyant jet in a cross flow. In Twelfth Australasian Fluid Mechanics
+Conference (ed. RW Bilger), pages 347–350, 1995.
+
+Adrian CH Lai and Joseph HW Lee. Dynamic interaction of multiple buoyant jets. Journal of fluid mechanics, 708:539–575, 2012.
+
+E Bjørn and PV Nielsen. Merging Thermal Plumes in the Indoor Environment. Department of Building Technology and Structural
+Engineering, Aalborg University, 1995.
+
+GI Taylor. Flow induced by jets. Journal of Aero/Space Science, XXV, 1958.

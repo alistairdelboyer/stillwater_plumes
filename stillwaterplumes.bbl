@@ -1,0 +1,42 @@
+\begin{thebibliography}{6}
+\expandafter\ifx\csname natexlab\endcsname\relax\def\natexlab#1{#1}\fi
+\def\au#1{#1} \def\ed#1{#1} \def\yr#1{#1}\def\at#1{#1}\def\jt#1{\textit{#1}}
+  \def\bt#1{#1}\def\bvol#1{\textbf{#1}} \def\vol#1{#1} \def\pg#1{#1}
+  \def\publ#1{#1}\def\arxiv#1{#1}\def\org#1{#1}\def\st#1{\textit{#1}}
+
+\bibitem[Cenedese \& Linden(2014)]{cenedese2014entrainment}
+{\sc \au{Cenedese, Claudia} \& \au{Linden, PF}} \yr{2014}  \at{Entrainment in
+  two coalescing axisymmetric turbulent plumes}.  \jt{Journal of Fluid
+  Mechanics}  \bvol{752}.
+
+\bibitem[Kaye \& Linden(2004)]{kaye2004coalescing}
+{\sc \au{Kaye, NB} \& \au{Linden, PF}} \yr{2004}  \at{Coalescing axisymmetric
+  turbulent plumes}.  \jt{Journal of Fluid Mechanics}  \bvol{502},
+  \pg{41--63}.
+
+\bibitem[Morton {\em et~al.\/}(1956)Morton, Taylor \&
+  Turner]{morton1956turbulent}
+{\sc \au{Morton, BR}, \au{Taylor, Geoffrey~Ingram} \& \au{Turner,
+  John~Stewart}} \yr{1956}  \at{Turbulent gravitational convection from
+  maintained and instantaneous sources}.  \jt{Proceedings of the Royal Society
+  of London. Series A. Mathematical and Physical Sciences}  \bvol{234}~(1196),
+  \pg{1--23}.
+
+\bibitem[Moses {\em et~al.\/}(1993)Moses, Zocchi \&
+  Libchaberii]{moses1993experimental}
+{\sc \au{Moses, Elisha}, \au{Zocchi, Giovanni} \& \au{Libchaberii, Albert}}
+  \yr{1993}  \at{An experimental study of laminar plumes}.  \jt{Journal of
+  Fluid Mechanics}  \bvol{251},  \pg{581--601}.
+
+\bibitem[Moses {\em et~al.\/}(1991)Moses, Zocchi, Procaccia \&
+  Libchaber]{moses1991dynamics}
+{\sc \au{Moses, Elisha}, \au{Zocchi, G}, \au{Procaccia, Itamar} \&
+  \au{Libchaber, A}} \yr{1991}  \at{The dynamics and interaction of laminar
+  thermal plumes}.  \jt{EPL (Europhysics Letters)}  \bvol{14}~(1),  \pg{55}.
+
+\bibitem[Rooney(2015)]{rooney2015merging}
+{\sc \au{Rooney, GG}} \yr{2015}  \at{Merging of a row of plumes or jets with an
+  application to plume rise in a channel}.  \jt{Journal of Fluid Mechanics}
+  \bvol{771}.
+
+\end{thebibliography}
